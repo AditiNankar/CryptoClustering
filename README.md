@@ -63,18 +63,6 @@ The objective is to analyze whether **24-hour** and **7-day** price changes can 
 
 ---
 
-## 📈 Visualizations
-
-### 🔹 Clustering Based on Raw Scaled Features
-![24h vs 7d Cluster](./screenshots/raw_cluster.png)
-
-### 🔹 Clustering Based on PCA Features
-![PC1 vs PC2 Cluster](./screenshots/pca_cluster.png)
-
-> *Include screenshots above if available.*
-
----
-
 ## ❓ Insights
 
 - **Best k** was found using the Elbow Method for both scaled and PCA data.
